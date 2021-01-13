@@ -1,2 +1,2 @@
 # Hello-world
-Python Programmer/Back-end engineering
+I am a Python Programmer - Backend Engineer.Most Focused On Computer Science and All other aspects to do with programming
